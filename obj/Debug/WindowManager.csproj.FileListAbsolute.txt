@@ -1,0 +1,10 @@
+D:\UniverCity\Third_course\6_sem\Coursework\WindowManager\bin\Debug\WindowManager.exe.config
+D:\UniverCity\Third_course\6_sem\Coursework\WindowManager\bin\Debug\WindowManager.exe
+D:\UniverCity\Third_course\6_sem\Coursework\WindowManager\bin\Debug\WindowManager.pdb
+D:\UniverCity\Third_course\6_sem\Coursework\WindowManager\obj\Debug\WindowManager.csprojAssemblyReference.cache
+D:\UniverCity\Third_course\6_sem\Coursework\WindowManager\obj\Debug\WindowManager.Form1.resources
+D:\UniverCity\Third_course\6_sem\Coursework\WindowManager\obj\Debug\WindowManager.Properties.Resources.resources
+D:\UniverCity\Third_course\6_sem\Coursework\WindowManager\obj\Debug\WindowManager.csproj.GenerateResource.cache
+D:\UniverCity\Third_course\6_sem\Coursework\WindowManager\obj\Debug\WindowManager.csproj.CoreCompileInputs.cache
+D:\UniverCity\Third_course\6_sem\Coursework\WindowManager\obj\Debug\WindowManager.exe
+D:\UniverCity\Third_course\6_sem\Coursework\WindowManager\obj\Debug\WindowManager.pdb
